@@ -82,17 +82,6 @@ ingenieria-software/
                 ├── TareaTest.java
                 └── TareaSeguimientoTest.java
 ```
-
----
-
-## Authors
-
-| Name | DNI |
-|------|-----|
-| Roberto Pais Bustamante | 54442144V |
-| Daniel Del Nogal Buchanan | 54010299C |
-| Carlos Rodríguez Romero | 03218454H |
-
 ---
 
 <div align="center">
