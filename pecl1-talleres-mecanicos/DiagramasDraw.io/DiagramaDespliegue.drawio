@@ -1,0 +1,175 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0" version="29.6.1">
+  <diagram name="Página-1" id="AAyCW9CWxjKPsZyvrg9q">
+    <mxGraphModel dx="2470" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Otros Talleres" vertex="1">
+          <mxGeometry height="225" width="611" x="1932" y="487" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Taller Local 1 de 11" vertex="1">
+          <mxGeometry height="991" width="1842" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--3" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Zona Taller (Mecánicos)" vertex="1">
+          <mxGeometry height="368" width="598" x="1204" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--4" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Sala Atención Público" vertex="1">
+          <mxGeometry height="368" width="809" x="375" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--5" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Oficina del Gerente" vertex="1">
+          <mxGeometry height="368" width="315" x="40" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--6" parent="1" style="whiteSpace=wrap;strokeWidth=2;spacingLeft=-97;" value="Servidor Local (Oficina Gerente)" vertex="1">
+          <mxGeometry height="474" width="1678" x="99" y="512" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Oficina Central (Madrid Capital)" vertex="1">
+          <mxGeometry height="402" width="640" x="1887" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Servidor Central&#xa;        (Windows/Linux Server)&#xa;        IP: 10.0.0.1&#xa;Backup diario" vertex="1">
+          <mxGeometry height="126" width="231" x="2153" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Base de Datos Central&#xa;        Oracle/PostgreSQL&#xa;        Almacena copias de todos los talleres" vertex="1">
+          <mxGeometry height="126" width="260" x="1922" y="1061" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Sistema de Backup Automático&#xa;        Copias diarias - Retención 30 días" vertex="1">
+          <mxGeometry height="126" width="260" x="2232" y="1061" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Servidor Físico&#xa;            Windows/Linux Server&#xa;            IP: 192.168.1.1&#xa;Almacena historiales locales" vertex="1">
+          <mxGeometry height="150" width="260" x="765" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Base de Datos Local&#xa;            MySQL/PostgreSQL&#xa;            Datos del taller" vertex="1">
+          <mxGeometry height="102" width="202" x="134" y="847" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Aplicación Servidor&#xa;            Java - Lógica de negocio" vertex="1">
+          <mxGeometry height="78" width="236" x="869" y="859" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Ordenador Gerente&#xa;            Windows/Linux&#xa;Gestión productividad" vertex="1">
+          <mxGeometry height="102" width="245" x="75" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Puesto Trabajo 1&#xa;            Windows/Linux&#xa;Comercial/Cajero" vertex="1">
+          <mxGeometry height="102" width="215" x="410" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Puesto Trabajo 2&#xa;            Windows/Linux&#xa;Comercial/Cajero" vertex="1">
+          <mxGeometry height="102" width="215" x="674" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--17" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Puesto Trabajo N&#xa;            Windows/Linux&#xa;Atención clientes" vertex="1">
+          <mxGeometry height="102" width="210" x="939" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--18" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Terminal Mecánico 1&#xa;            Windows/Tablet&#xa;Consulta presupuestos" vertex="1">
+          <mxGeometry height="102" width="247" x="1239" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--19" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Terminal Mecánico 2&#xa;            Windows/Tablet&#xa;Registro finalización" vertex="1">
+          <mxGeometry height="102" width="232" x="1535" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--20" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Taller 2 (Madrid)" vertex="1">
+          <mxGeometry height="54" width="178" x="1967" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--21" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="..." vertex="1">
+          <mxGeometry height="54" width="78" x="2195" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--22" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Taller 11 (Toledo)" vertex="1">
+          <mxGeometry height="54" width="185" x="2323" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--24" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--8" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2052" y="986" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--25" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--8" style="curved=1;startArrow=none;endArrow=none;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2362" y="986" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--26" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--11" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--27" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--11" style="curved=1;startArrow=none;endArrow=none;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="987" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--28" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--14" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0;entryY=0.38;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--11" value="LAN - Gestión">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="197" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--29" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--15" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0;entryY=0.27;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--11" value="LAN - Acceso historiales">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--30" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--16" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--11" value="LAN - Acceso historiales">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="782" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--31" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--17" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.93;entryY=0;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--11" value="LAN - Acceso historiales">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1044" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--32" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--18" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=1;entryY=0.31;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--11" value="LAN - Consulta trabajos">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1362" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--33" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--19" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=1;entryY=0.39;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--11" value="LAN - Registro trabajos">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1651" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--34" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--11" style="curved=1;startArrow=block;endArrow=block;strokeWidth=3;exitX=1;exitY=0.61;entryX=0;entryY=0.37;rounded=0;spacingTop=-19;" target="LoCkn4VcqxycW-nuGpQ--8" value="VPN TCP/IP&#xa;Copia diaria historiales">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1661" y="712" />
+              <mxPoint x="1661" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--35" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--20" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.12;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--8" value="VPN">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2056" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--36" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--21" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.39;entryY=0;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--8" value="VPN">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2234" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LoCkn4VcqxycW-nuGpQ--37" edge="1" parent="1" source="LoCkn4VcqxycW-nuGpQ--22" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.95;entryY=0;rounded=0;" target="LoCkn4VcqxycW-nuGpQ--8" value="VPN">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2415" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
