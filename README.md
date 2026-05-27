@@ -85,6 +85,16 @@ ingenieria-software/
 
 ---
 
+## Authors
+
+| Name | DNI |
+|------|-----|
+| Roberto Pais Bustamante | 54442144V |
+| Daniel Del Nogal Buchanan | 54010299C |
+| Carlos Rodríguez Romero | 03218454H |
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C87000&height=100&section=footer" width="100%"/>
 
