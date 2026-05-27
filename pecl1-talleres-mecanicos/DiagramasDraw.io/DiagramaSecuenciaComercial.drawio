@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0" version="29.6.1">
+  <diagram name="Página-1" id="OdlwmE5FVyrI6n82FCIS">
+    <mxGraphModel dx="1235" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pAZarK3-z7rD95GAu51R-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="VistaHistorial" vertex="1">
+          <mxGeometry height="840" width="150" x="383" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-3" parent="pAZarK3-z7rD95GAu51R-2" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" value="" vertex="1">
+          <mxGeometry height="638" width="10" x="70" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="ControladorHistorial" vertex="1">
+          <mxGeometry height="840" width="163" x="646" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-5" parent="pAZarK3-z7rD95GAu51R-4" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" value="" vertex="1">
+          <mxGeometry height="524" width="10" x="76" y="159" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Cliente" vertex="1">
+          <mxGeometry height="840" width="150" x="859" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-7" parent="pAZarK3-z7rD95GAu51R-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" value="" vertex="1">
+          <mxGeometry height="42" width="10" x="70" y="211" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-8" parent="pAZarK3-z7rD95GAu51R-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" value="" vertex="1">
+          <mxGeometry height="42" width="10" x="70" y="361" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Historial" vertex="1">
+          <mxGeometry height="840" width="150" x="1059" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-10" parent="pAZarK3-z7rD95GAu51R-9" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" value="" vertex="1">
+          <mxGeometry height="42" width="10" x="70" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-11" parent="pAZarK3-z7rD95GAu51R-9" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" value="" vertex="1">
+          <mxGeometry height="42" width="10" x="70" y="579" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-12" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" value="alt" vertex="1">
+          <mxGeometry height="150" width="237" x="712" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-13" parent="pAZarK3-z7rD95GAu51R-12" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Cliente no existe]" vertex="1">
+          <mxGeometry height="20" width="207" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-14" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="pAZarK3-z7rD95GAu51R-3" value="crearHistorial(datosCliente, datosServicio)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="127" />
+            </Array>
+            <mxPoint x="93.83333333333326" y="126.99999999999989" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-15" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="pAZarK3-z7rD95GAu51R-5" value="solicitarCrearHistorial(datos)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-16" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="pAZarK3-z7rD95GAu51R-7" value="buscarCliente(NIF)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="841" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-17" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="pAZarK3-z7rD95GAu51R-5" value="clienteEncontrado">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="842" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-18" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="pAZarK3-z7rD95GAu51R-8" value="crearCliente(datos)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="841" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-19" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="pAZarK3-z7rD95GAu51R-5" value="clienteCreado">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="842" y="433" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-20" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="pAZarK3-z7rD95GAu51R-10" value="crear(numHistorial, fecha, tipoServicio)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="941" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-21" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-9" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="pAZarK3-z7rD95GAu51R-5" value="historialCreado">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="942" y="547" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-22" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="pAZarK3-z7rD95GAu51R-11" value="asignarCliente(cliente)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="941" y="599" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-23" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-9" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="pAZarK3-z7rD95GAu51R-5" value="ok">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="942" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-24" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="pAZarK3-z7rD95GAu51R-3" value="mostrarConfirmacion()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-25" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" value="mostrarHistorialCreado()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="755" />
+            </Array>
+            <mxPoint x="93.83333333333326" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-29" edge="1" parent="1" source="pAZarK3-z7rD95GAu51R-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAZarK3-z7rD95GAu51R-26" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Comercial" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
